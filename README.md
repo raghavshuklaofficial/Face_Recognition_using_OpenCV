@@ -1,5 +1,3 @@
-Absolutely, Raghav! Here's a tailored **`README.md`** for your [Face Recognition using OpenCV](https://github.com/raghavshuklaofficial/face-recognition-using-openCV) project, incorporating the **🔤 Next-Gen Formatting Guide** you've specified:
-
 ---
 
 # 🧠 **Face Recognition using OpenCV**
