@@ -84,7 +84,20 @@ face-recognition-using-openCV/
   * Ensure the embeddings are up-to-date.
   * Use the appropriate script based on your input source (image or webcam).
 
+---
 
+## 👨‍💻 **Author**
+
+**Raghav Shukla**
+📌 [GitHub Profile](https://github.com/raghavshuklaofficial)
+
+---
+
+## 📄 **License**
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
 ## 🤝 **Contributing**
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
