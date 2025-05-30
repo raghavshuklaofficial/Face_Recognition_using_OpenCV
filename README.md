@@ -87,18 +87,10 @@ face-recognition-using-openCV/
   * Ensure the embeddings are up-to-date.
   * Use the appropriate script based on your input source (image or webcam).
 
-## 📸 **Screenshots**
-
-> *Add screenshots or GIFs here to showcase the application's functionality.*
 
 ## 🤝 **Contributing**
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-## 📄 **License**
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 Feel free to customize this `README.md` further to align with any additional features or changes in your project. Let me know if you need assistance with anything else!
