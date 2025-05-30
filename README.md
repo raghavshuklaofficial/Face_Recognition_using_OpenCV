@@ -1,4 +1,3 @@
----
 # 🧠 **Face Recognition using OpenCV**
 
 *Real-time face detection and recognition system leveraging OpenCV and deep learning.*
