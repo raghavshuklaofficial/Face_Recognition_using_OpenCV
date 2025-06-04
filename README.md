@@ -94,7 +94,7 @@ face-recognition-using-openCV/
 
 ## 📄 **License**
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/raghavshuklaofficial/Face_Recognition/blob/main/License) file for details.
 
 ---
 ## 🤝 **Contributing**
